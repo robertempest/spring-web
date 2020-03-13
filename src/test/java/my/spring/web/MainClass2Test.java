@@ -12,6 +12,6 @@ public class MainClass2Test {
 
   @Test
   public void testAssertEquals2() {
-    assertEquals("2", "2");
+    assertEquals("2", "3");
   }
 }
